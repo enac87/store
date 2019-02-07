@@ -17,7 +17,7 @@ class ProductProvider extends Component {
   }
 
   addToCart = () => {
-    
+
   }
 
   render() {
